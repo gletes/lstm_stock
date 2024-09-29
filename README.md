@@ -1,5 +1,4 @@
-# lstm_stock
-
+# About the Code
 ## 1. LSTM
 Training models to predict two stock prices using LSTM.
 The code provided trains a model to predict Amazon and Cisco stocks (from dataset B). Keras tuner is used to obtain the best parameters to get the least validation loss. 
